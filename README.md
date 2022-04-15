@@ -22,6 +22,29 @@ Here are some ideas to get you started:
 - Enthusiast of the best web development technologies :computer:
 - Always learning and trying to improve myself :seedling:
 
+## Main stacks and skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"  width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100px" />
+
+
+## 
+
+<div>
+<a href="https://github.com/Jumori">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumori&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jumori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Contact me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jumori/)](https://github.com/Jumori/)
