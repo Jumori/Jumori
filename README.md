@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - My pronouns are she/her :woman:
 - Front-end developer :woman_technologist:
-- Working at an insurtech and turning insurance processes into user friendly journeys :sparkles:
+- Working at a fintech and turning financial processes into user friendly and secure applications :sparkles:
 - Enthusiast of the best web development technologies :computer:
 - Always learning and trying to improve myself :seedling:
 
